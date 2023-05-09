@@ -26,6 +26,10 @@ I founded an organization called "KidsWhoHack" with the goal of teaching cyberse
 https://docs.github.com/en/repositories/creating-and-managing-repositories/restoring-a-deleted-repository
 Now as the code was in a organization I have an active attempt to restore the code using this link ^ however, all of the organization was deleted so I cannot get to this menu in order to start the project and archive it under my account.
 
+https://stackoverflow.com/questions/66568042/how-do-i-restore-a-deleted-organisation-on-github
+
+It seems this attempt would be trivial
+
 # What I learned?
 
 Throughout many of these organizations I learned many many things and have invaluable knowledge of mistakes you could make, In most of these projects I let my ambition get the best of me resulting in the inevitable death of them. However, they will live on in other forms.
