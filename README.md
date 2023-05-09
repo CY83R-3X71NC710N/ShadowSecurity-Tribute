@@ -8,7 +8,7 @@
 
 ---
 
-# ShadowSecurity was an organization founded by me later shutdown after one year, this is a tribute. However, I'd like to specify only the older version was shutdown and this new better version will live on.
+ShadowSecurity was an organization founded by me later shutdown after one year, this is a tribute. However, I'd like to specify only the older version was shutdown and this new better version will live on.
 
 ---
 
