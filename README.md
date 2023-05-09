@@ -1,7 +1,13 @@
 # ShadowSecurity-Tribute
+---
+<p align="left"> <img src="./ShadowSecurityBackground.png" /> </p>
+---
 ShadowSecurity was an organization founded by me later shutdown after one year, this is a tribute.
 
 # Tribute
+---
+<p align="center"> <img src="./ShadowSecurity-Circle.png" /> </p>
+---
 
 In tribute to ShadowSecurity I will be providing Shadow-Linux code and mantaining the code for the future allowing all my favorite penetration testing GNU/Linux operating systems to be installed in one operating system. This was the idea that founded all of ShadowSecurity before ShadowSecurity branched out and I feel Shadow-Linux should be what ends it. In someways this code I provide is better it contains no branding allowing me to get away with purely installing bedrock linux and making the changes rather than forking the project. In this project the videos of Shadow-Music and Shadow-Website PWA will be provided as a release and I possibly will create the never created macos penetration testing script.
 
@@ -20,6 +26,9 @@ Finally, I realized that I had tried to reinvent the wheel and do too much when 
 In conclusion, ShadowSecurity had a lot of potential, but my ambition got the better of me. I learned that focusing on one core product is the key to success in any project, and I hope to apply this lesson to any future endeavors I undertake.
 
 # KidsWhoHack Tribute
+---
+<p align="center"> <img src="./kidswhohacklogo.png" /> </p>
+---
 I founded an organization called "KidsWhoHack" with the goal of teaching cybersecurity to kids. However, after creating a course for the organization, I found it pointless to reinvent the wheel with a course when text-based content is just as effective if not more effective for learning. As a result, I shifted my focus to creating presentations and blogs, which were much easier to manage and more accessible to a wider audience. Eventually, I decided to shut down the organization and focus on creating text-based content for learning cybersecurity. While "KidsWhoHack" may be gone, its legacy lives on in the text-based content I continue to create.
 
 # What will happen?
