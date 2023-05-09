@@ -22,6 +22,10 @@ In conclusion, ShadowSecurity had a lot of potential, but my ambition got the be
 # KidsWhoHack Tribute
 I founded an organization called "KidsWhoHack" with the goal of teaching cybersecurity to kids. However, after creating a course for the organization, I found it pointless to reinvent the wheel with a course when text-based content is just as effective if not more effective for learning. As a result, I shifted my focus to creating presentations and blogs, which were much easier to manage and more accessible to a wider audience. Eventually, I decided to shut down the organization and focus on creating text-based content for learning cybersecurity. While "KidsWhoHack" may be gone, its legacy lives on in the text-based content I continue to create.
 
+# Archive Attempt:
+https://docs.github.com/en/repositories/creating-and-managing-repositories/restoring-a-deleted-repository
+Now as the code was in a organization I have an active attempt to restore the code using this link ^ however, all of the organization was deleted so I cannot get to this menu in order to start the project and archive it under my account.
+
 # What I learned?
 
 Throughout many of these organizations I learned many many things and have invaluable knowledge of mistakes you could make, In most of these projects I let my ambition get the best of me resulting in the inevitable death of them. However, they will live on in other forms.
