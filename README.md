@@ -28,6 +28,8 @@ Now as the code was in a organization I have an active attempt to restore the co
 
 https://stackoverflow.com/questions/66568042/how-do-i-restore-a-deleted-organisation-on-github
 
+https://github.blog/changelog/2019-09-30-restore-deleted-repositories/
+
 It seems this attempt would be trivial
 
 # What I learned?
