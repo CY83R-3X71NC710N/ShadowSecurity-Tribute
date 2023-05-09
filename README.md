@@ -1,16 +1,23 @@
 # ShadowSecurity-Tribute
 
 ---
+
 <p align="left"> <img src="./ShadowSecurityBackground.png" /> </p>
+
 ---
 
 ---
+
 # ShadowSecurity was an organization founded by me later shutdown after one year, this is a tribute. However, I'd like to specify only the older version was shutdown and this new better version will live on.
+
 ---
 
 # Tribute
+
 ---
-<p align="center"> <img src="./ShadowSecurity-Circle.png" /> </p>
+
+<p align="left"> <img src="./ShadowSecurity-Circle.png" /> </p>
+
 ---
 
 In tribute to ShadowSecurity I will be providing Shadow-Linux code and mantaining the code for the future allowing all my favorite penetration testing GNU/Linux operating systems to be installed in one operating system. This was the idea that founded all of ShadowSecurity before ShadowSecurity branched out and I feel Shadow-Linux should be what ends it. In someways this code I provide is better it contains no branding allowing me to get away with purely installing bedrock linux and making the changes rather than forking the project. In this project the videos of Shadow-Music and Shadow-Website PWA will be provided as a release and I possibly will create the never created macos penetration testing script.
